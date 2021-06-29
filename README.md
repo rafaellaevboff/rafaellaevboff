@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Rafaella Evaldt Boff.
 
-:round_pushpin: Rio Grande do Sul/RS
+:round_pushpin: Rio Grande do Sul, Brasil.
 
 :books::woman_technologist: Estudante de Análise e Desenvolvimento de Sistemas, na Universidade Luterana do Brasil (ULBRA).
 
