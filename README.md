@@ -1,8 +1,11 @@
 ## Olá! Eu sou a Rafaella Evaldt Boff. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-:round_pushpin: Rio Grande do Sul, Brasil.
+  :round_pushpin: Rio Grande do Sul, Brasil.
 
-:books::woman_technologist: Estudante de Análise e Desenvolvimento de Sistemas, na ULBRA (Torres).
+  :books::woman_technologist: Estudante de Análise e Desenvolvimento de Sistemas, na ULBRA (Torres).
+
+  Acesse meu site pessoal <a href="rafaellaevboff.github.io">clicando aqui</a>.
+
 
 ##
 
