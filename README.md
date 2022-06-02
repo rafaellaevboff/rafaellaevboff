@@ -1,4 +1,4 @@
-## Olá! Eu sou a Rafaella Evaldt Boff. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Olá! Eu sou a Rafaella Evaldt Boff. <!--<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">-->
 
   :round_pushpin: Rio Grande do Sul, Brasil.
 
