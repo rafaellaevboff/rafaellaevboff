@@ -4,9 +4,6 @@
 
   :books::woman_technologist: Estudante de Análise e Desenvolvimento de Sistemas - ULBRA (Torres).
 
-  Acesse meu site pessoal <a target="_blank" href="https://rafaellaevboff.github.io">clicando aqui</a>.
-
-
 ##
 
 <div align="center">
