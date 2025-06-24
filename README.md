@@ -24,10 +24,7 @@ Seja bem vindo(a) ao meu GitHub!
 
 
 ### Sinta-se a vontade para entrar em contato via:
-<div style="display: inline_block>
-  <a href="https://www.linkedin.com/in/rafaellaevaldtboff/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaellaevaldtboff/)
 
 ### Status
  <div>
